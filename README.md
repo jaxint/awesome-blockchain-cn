@@ -117,6 +117,7 @@
 - [EOS](https://github.com/EOSIO/eos) EOS链源码
 - [BYTOM](https://github.com/Bytom/bytom) 比原链源码
 - [NEO](https://github.com/neo-project/neo) NEO链源码
+- [RustChain](https://github.com/Scottcjn/Rustchain) DePIN区块链，支持复古硬件的古董证明挖矿和MCP服务器集成
 - [CITA](https://github.com/cryptape/cita) cita联盟链的底层源码
 - [Nervos](https://github.com/nervosnetwork/ckb) 公链 Nervos CKB 的底层源码
 - [比特币0.1](https://github.com/fkysly/bitcoin0.1.0) 最原始的比特币代码
